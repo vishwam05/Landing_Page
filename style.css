@@ -82,7 +82,7 @@ button {
 
 .layer-one, .layer-two, .layer-three, .layer-four {
     display: flex;
-    padding: 20px;
+    padding: 70px;
     align-items: center;
     gap: 10px;
     justify-content: center;
@@ -97,7 +97,7 @@ button {
 
 
 
-}
+
 /* <--FOOTER--> */
 
 .footer {
